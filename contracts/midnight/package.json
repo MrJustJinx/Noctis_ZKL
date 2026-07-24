@@ -1,0 +1,18 @@
+{
+  "name": "@noctis/midnight-contracts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Noctis Protocol Midnight PSM contracts and simulation tests",
+  "type": "module",
+  "scripts": {
+    "compile": "compact --version 2>&1 | grep -qE '^compact [0-9]' || { echo 'ERROR: `compact` does not resolve to the real Midnight Compact CLI.' >&2; echo 'On Windows, the native `compact` on PATH is system32\\compact.exe (a file-compression tool), not the Compact compiler.' >&2; echo 'Run this via WSL, where the real CLI is installed (see midnight-tooling:install-cli), or fix PATH ordering so the real `compact` resolves first.' >&2; exit 1; } && for f in bonding_curve eligibility_gate treasury creator_escrow vesting lp_escrow cto_governance staking_pool; do compact compile --skip-zk \"$f.compact\" \"compiled/$f\" || exit 1; done",
+    "test": "npm run compile && npx vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^4.1.10"
+  },
+  "dependencies": {
+    "@midnight-ntwrk/compact-runtime": "0.16.0"
+  }
+}

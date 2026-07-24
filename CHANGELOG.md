@@ -259,7 +259,7 @@ Prompted by a direct ask to check GitHub for stale/missing info against everythi
 
 ### T7 — Discord server secured, closing out domain + social handles
 - Jinx: [discord.gg/FkFwHFN6Aq](https://discord.gg/FkFwHFN6Aq) — confirmed live via fetch, resolves to a real active server named "Noctis"
-- All three original "register before public announcement" items now done: domain (`noctis.zone`), Twitter/X (`@Noctis_ZKL`), Discord
+- All three original "register before public announcement" items now done: domain (`noctis.zone`), Twitter/X (`@Noctis_Zone`), Discord
 - Left open as a separate, optional, non-blocking decision: whether to register `noctis.fi`/`noctis.io` as defensive backup domains — was always a "consider," not part of the original requirement
 - Updated CLAUDE.md (moved to RESOLVED), internal tracking, internal tracking
 
@@ -315,7 +315,7 @@ Prompted by a direct ask to check GitHub for stale/missing info against everythi
 ## 2026-07-10 — T7/T19/T21 research pass, T21's Cardano submission built for real
 
 ### T7 — Twitter/X confirmed secured
-- [@Noctis_ZKL](https://x.com/Noctis_ZKL) (matches the GitHub org name), not the `@NoctisProtocol`/`@NoctisLaunch` candidates originally proposed — confirmed directly by Jinx. Discord still needed
+- [@Noctis_Zone](https://x.com/Noctis_Zone) not the `@NoctisProtocol`/`@NoctisLaunch` candidates originally proposed — confirmed directly by Jinx. Discord still needed
 
 ### T19 — NIGHT→stablecoin conversion research: narrows the problem, doesn't solve it
 - Found the only protocol-level Cardano↔Midnight bridge (midnight-improvement-proposals#20): unidirectional (Cardano→Midnight only, cNIGHT→mNIGHT), NIGHT-only, ~12h finality

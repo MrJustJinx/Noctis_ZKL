@@ -118,7 +118,7 @@ Full constants in [CLAUDE.md](CLAUDE.md).
 
 - **Website:** [noctis.zone](https://noctis.zone) *(domain secured — site not yet live)*
 - **GitHub:** [github.com/MrJustJinx/Noctis_ZKL](https://github.com/MrJustJinx/Noctis_ZKL)
-- **Twitter/X:** [@Noctis_ZKL](https://x.com/Noctis_ZKL)
+- **Twitter/X:** [@Noctis_Zone](https://x.com/Noctis_Zone)
 - **Discord:** [discord.gg/FkFwHFN6Aq](https://discord.gg/FkFwHFN6Aq)
 
 ---

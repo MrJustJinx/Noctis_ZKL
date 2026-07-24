@@ -628,7 +628,7 @@ NIGHT_peak = (peak_hour_txs × 24 × cost_per_tx_DUST) ÷ 0.714
 
 ### ✅ RESOLVED [T7] — Domain and Social Handles
 - Domain: `noctis.zone` secured ✅ (2026-06-09)
-- Twitter/X: secured ✅ — **[@Noctis_ZKL](https://x.com/Noctis_ZKL)** (matches the GitHub org/repo name `Noctis_ZKL`, not the `@NoctisProtocol`/`@NoctisLaunch` candidates this section previously proposed — confirmed by Jinx 2026-07-10, this CLAUDE.md section had drifted out of sync with internal tracking's already-current domain status)
+- Twitter/X: secured ✅ — **[@Noctis_Zone](https://x.com/Noctis_Zone)** (not the `@NoctisProtocol`/`@NoctisLaunch` candidates this section previously proposed — confirmed by Jinx 2026-07-10, this CLAUDE.md section had drifted out of sync with internal tracking's already-current domain status)
 - Discord: secured ✅ — **[discord.gg/FkFwHFN6Aq](https://discord.gg/FkFwHFN6Aq)** (confirmed 2026-07-10, resolves to a real active server named "Noctis")
 
 All three items required before public announcement are done. One optional, non-blocking item remains: whether to register `noctis.fi`/`noctis.io` as defensive backup domains against squatting — a standalone decision for whenever Jinx wants to revisit it, not part of this requirement.
